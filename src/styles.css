@@ -28,6 +28,7 @@ header {
 }
 
 h1 {
+  background-color: orange;
   float: left;
   padding-top: 5%;
   width: 80%;
@@ -90,7 +91,7 @@ h1 {
 
 .iama {
   max-width: 100%;
-  color: #black;
+  color: black;
   letter-spacing: 0.05em;
   font-size: 20px;
   margin: 0;
